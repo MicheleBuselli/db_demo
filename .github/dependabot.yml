@@ -13,3 +13,7 @@ updates:
     directory: "/ruby"
     schedule:
       interval: "weekly"
+groups:
+    update-types:
+    - "minor"
+    - "patch"
